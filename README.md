@@ -14,6 +14,7 @@ PC버젼 zip 파일 해제 후 실행
 마우스 이동 : 캐릭터 회전
 
 [Android 설치 방법]
+https://drive.google.com/file/d/1ib-q29d6mnMcJteqGCxfWZmJYLVSBpWl/view?usp=sharing
 APK 파일 다운로드 후 폰으로 옮기기
 폰에서 APK 파일 설치
 [Android 조작 방법]
