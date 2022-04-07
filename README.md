@@ -28,6 +28,7 @@ APK 파일 다운로드 후 폰으로 옮기기
 https://forms.gle/W1pLimc4GF51nGgJ9
 
 ***** ver.1.0.4 업데이트 내역 *****
+
         공통
             - Ready 동안 움직이지 못하도록 변경
             - Ready 문구 화면 출력 추가
@@ -52,6 +53,7 @@ https://forms.gle/W1pLimc4GF51nGgJ9
             - 게임 변경 기능 제거
 
 ***** ver.1.0.3 업데이트 내역 *****
+
         모바일 타이틀에서 넘어갈 때 바로 메인메뉴 클릭되는 현상 수정
         
         게임 조작 개선
@@ -63,6 +65,7 @@ https://forms.gle/W1pLimc4GF51nGgJ9
         제작진 (Credit) 추가
 
 ***** ver.1.0.2 업데이트 내역 *****
+
         게임 이름 변경 CapsuleFights => CapsuleRolls
         [개선 사항]
         게임 조작 변경
@@ -86,6 +89,7 @@ https://forms.gle/W1pLimc4GF51nGgJ9
             - 아케이드 모드 시간 추가 이펙트 추가
 
 ***** ver.1.0.1 업데이트 내역 *****
+
         최초 Release
 
         싱글플레이 모드
