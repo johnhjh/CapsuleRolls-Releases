@@ -5,34 +5,30 @@ CapsuleRolls ver.1.0.4
 
 CapsuleRolls를 플레이 해주셔서 감사합니다.
 
+
 [PC (Windows) 설치 방법]
 
-PC버젼 zip 파일 해제 후 실행
+    PC버젼 zip 파일 해제 후 실행
 
 [PC 조작 방법]
-
-키보드 [W, A, S, D] : 상하좌우 이동
-
-마우스 [왼 클릭] : 점프
-
-마우스 [우 클릭] : 다이브
-
-마우스 이동 : 캐릭터 회전
+    키보드 [W, A, S, D] : 상하좌우 이동
+    마우스 [왼 클릭] : 점프
+    마우스 [우 클릭] : 다이브
+    마우스 이동 : 캐릭터 회전
 
 [Mobile (Android) 설치 방법]
 
 APK 파일 설치 링크
 https://drive.google.com/drive/folders/11BXQ5XIOOrNEoMYLVmmqbzzM1r6L7cTw?usp=sharing
 
-APK 파일 다운로드 후 폰으로 옮기기
+    APK 파일 다운로드 후 폰으로 옮기기
+    폰에서 APK 파일 설치
 
-폰에서 APK 파일 설치
 
-[Android 조작 방법]
-
-조이스틱 : 상화좌우 이동
-
-우측 화면 드래그 : 캐릭터 회전
+[Mobile 조작 방법]
+    조이스틱 : 상화좌우 이동
+    우측 화면 드래그 : 캐릭터 회전
+    버튼 클릭 : 캐릭터 액션 (점프, 다이브)
 
 충분히 플레이 해보신 후,
 아래 링크의 설문에 참여해주세요.
