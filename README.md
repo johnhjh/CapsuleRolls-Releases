@@ -1,10 +1,9 @@
 # CapsuleRolls-Releases
 Repository For CapsuleRolls-Releases
 
-CapsuleRolls ver.1.0.4
+[CapsuleRolls ver.1.0.5]
 
-CapsuleRolls를 플레이 해주셔서 감사합니다.
-
+    CapsuleRolls를 플레이 해주셔서 감사합니다.
 
 [PC (Windows) 설치 방법]
 
@@ -19,8 +18,8 @@ CapsuleRolls를 플레이 해주셔서 감사합니다.
 
 [Mobile (Android) 설치 방법]
 
-APK 파일 설치 링크
-https://drive.google.com/drive/folders/11BXQ5XIOOrNEoMYLVmmqbzzM1r6L7cTw?usp=sharing
+    APK 파일 설치 링크
+    https://drive.google.com/drive/folders/11BXQ5XIOOrNEoMYLVmmqbzzM1r6L7cTw?usp=sharing
 
     APK 파일 다운로드 후 폰으로 옮기기
     폰에서 APK 파일 설치
@@ -35,9 +34,58 @@ https://drive.google.com/drive/folders/11BXQ5XIOOrNEoMYLVmmqbzzM1r6L7cTw?usp=sha
 충분히 플레이 해보신 후,
 아래 링크의 설문에 참여해주세요.
 
-https://forms.gle/W1pLimc4GF51nGgJ9
+    https://forms.gle/NUUPY483eHGPNLRE9
+
+    
+***** ver.1.0.5 업데이트 내역 *****
+
+        Release Date : 2022.04.15
+
+        공통
+            - 커서 변경
+            - Game UI 상호작용 시 사운드 추가
+            - 사망 사운드 추가
+            - 관중 소리 추가
+            - 스파이크 롤러 판정 완화
+            - 게임 안정성 강화
+
+        게임 튜토리얼 가이드 추가
+            - 모드 설명 추가
+            - 장애물/적 설명 추가
+            - 화면 설명 추가
+            - 조작 설명 추가
+
+        게임 설정 개선
+            - 컨트롤 설정 개선
+                => 모바일 진동 추가
+            - 그래픽 설정 추가
+                => 실시간 빛 사용 기능 추가
+                => 빛 세기, 그림자 조절 기능 추가
+            - 인터페이스 설정 추가
+                => 조이스틱 & 액션 버튼 켜기/끄기 기능 추가
+                => 게임 중 커서 켜기/끄기 기능 추가
+    
+        스테이지 모드 개선
+            - 장애물 배치 수정
+            - 클리어 & 실패 팝업 시간 감소
+            - Stage Clear 문구 화면 출력 추가
+            - 신규 스테이지 추가
+    
+        아케이드 모드 개선
+            - 장애물 배치 수정
+            - 적 공격 거리 완화
+            - Wave 10 이상 난이도 상승
+
+        오류 수정
+            - 리스폰 시 간헐적으로 공중으로 치솟는 현상 수정
+            - 게임 재시작 / 그만두기 시 간헐적으로 프리징 걸리는 현상 수정
+            - 모바일 터치 시 터지 종료 시에도
+              간헐적으로 계속 키 입력 받던 현상 수정
+
 
 ***** ver.1.0.4 업데이트 내역 *****
+
+        Release Date : 2022.04.07
 
         공통
             - Ready 동안 움직이지 못하도록 변경
@@ -64,6 +112,8 @@ https://forms.gle/W1pLimc4GF51nGgJ9
 
 ***** ver.1.0.3 업데이트 내역 *****
 
+        Release Date : 2022.04.01
+
         모바일 타이틀에서 넘어갈 때 바로 메인메뉴 클릭되는 현상 수정
         
         게임 조작 개선
@@ -75,6 +125,8 @@ https://forms.gle/W1pLimc4GF51nGgJ9
         제작진 (Credit) 추가
 
 ***** ver.1.0.2 업데이트 내역 *****
+
+        Release Date : 2022.03.31
 
         게임 이름 변경 CapsuleFights => CapsuleRolls
         [개선 사항]
@@ -99,6 +151,8 @@ https://forms.gle/W1pLimc4GF51nGgJ9
             - 아케이드 모드 시간 추가 이펙트 추가
 
 ***** ver.1.0.1 업데이트 내역 *****
+
+        Release Date : 2022.03.30
 
         최초 Release
 
