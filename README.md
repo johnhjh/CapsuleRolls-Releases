@@ -15,6 +15,8 @@ Repository For CapsuleRolls-Releases
     마우스 [왼 클릭] : 점프
     마우스 [우 클릭] : 다이브
     마우스 이동 : 캐릭터 회전
+    키보드 [T] : 튜토리얼 가이드 켜기/끄기
+    키보드 [Esc] : 게임 일시정지 / 게임 재개
 
 [Mobile (Android) 설치 방법]
 
