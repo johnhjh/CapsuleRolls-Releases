@@ -1,13 +1,13 @@
 # CapsuleRolls-Releases
 Repository For CapsuleRolls-Releases
 
-[CapsuleRolls ver.1.0.5]
+[CapsuleRolls ver.1.0.6]
 
     CapsuleRolls를 플레이 해주셔서 감사합니다.
 
 [PC (Windows) 설치 방법]
 
-    PC버젼 zip 파일 해제 후 실행
+    PC버젼 zip 파일 해제 후 Capsule Rolls.exe 실행
 
 [PC 조작 방법]
 
@@ -38,7 +38,31 @@ Repository For CapsuleRolls-Releases
 
     https://forms.gle/NUUPY483eHGPNLRE9
 
-    
+
+
+[업데이트 내역]
+
+***** ver.1.0.6 업데이트 내역 *****
+
+        Release Date : 2022.04.17
+
+        편의성 개선
+            싱글플레이
+            - 시작하기 버튼 Background 추가
+            설정
+            - 시야 감도 조절 기능 추가
+
+        게임 조작 개선
+            - 화면 전환 감도 최대값 변경
+            PC
+            - 마우스 위아래로 움직여 시점 변경 가능하도록 기능 추가
+            Mobile
+            - 드래그로 시점 변경 가능하도록 Bar 추가
+
+        아케이드 모드 개선
+            - 바닥의 경사 제거 (평탄화)
+        
+
 ***** ver.1.0.5 업데이트 내역 *****
 
         Release Date : 2022.04.15
