@@ -4,6 +4,10 @@ Repository For CapsuleRolls-Releases
 [CapsuleRolls ver.1.0.6]
 
     CapsuleRolls를 플레이 해주셔서 감사합니다.
+    
+[다운로드 링크]
+
+    https://drive.google.com/drive/folders/11BXQ5XIOOrNEoMYLVmmqbzzM1r6L7cTw?usp=sharing
 
 [PC (Windows) 설치 방법]
 
@@ -21,9 +25,6 @@ Repository For CapsuleRolls-Releases
 
 [Mobile (Android) 설치 방법]
 
-    APK 파일 설치 링크
-    https://drive.google.com/drive/folders/11BXQ5XIOOrNEoMYLVmmqbzzM1r6L7cTw?usp=sharing
-
     APK 파일 다운로드 후 폰으로 옮기기
     폰에서 APK 파일 설치
 
@@ -34,6 +35,9 @@ Repository For CapsuleRolls-Releases
     우측 화면 바 드래그 : 시점 변경
     우측 화면 드래그 : 캐릭터 회전
     버튼 클릭 : 캐릭터 액션 (점프, 다이브)
+
+
+[테스터 설문]
 
 충분히 플레이 해보신 후,
 아래 링크의 설문에 참여해주세요.
